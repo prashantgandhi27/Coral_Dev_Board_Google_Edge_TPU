@@ -12,9 +12,8 @@
   
 ## Getting started:
 
-... If you are using it for first time and haven't yet set up `Mendel System Image` then follow this [link](https://coral.withgoogle.com/tutorials/devboard/)  
+If you are using it for first time and haven't yet set up `Mendel System Image` then follow this [link](https://coral.withgoogle.com/tutorials/devboard/)  
 
- > **Note:** If you are using Linux on Virtual machine than while following steps provided in above link you may encounter error in `screen /dev/ttyUSB0 115200` . to get rid of that error you have to install [minicom](http://processors.wiki.ti.com/index.php/Setting_up_Minicom_in_Ubuntu)  
-
+ > **Note:** If you are using Linux on Virtual machine than while following steps provided in above link you may encounter error in `screen /dev/ttyUSB0 115200` . to get rid of that error you have to install [minicom](http://processors.wiki.ti.com/index.php/Setting_up_Minicom_in_Ubuntu) and follow steps. Replace `/dev/ttyS0` to `/dev/ttyUSB0`.
 
 
