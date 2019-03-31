@@ -1,2 +1,3 @@
-# Coral_Dev_Board_Google_Edge_TPU
-This repository contains user guide for beginners 
+# Coral Dev Board Google Edge TPU  
+  ___
+ > **Note:** This tutorial uses VirtualBox linux.  
