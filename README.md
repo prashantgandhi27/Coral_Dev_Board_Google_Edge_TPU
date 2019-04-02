@@ -18,5 +18,5 @@ If you are using it for first time and haven't yet set up `Mendel System Image` 
 
 ## Access GPIO in `Kernel Space`:
 
-![alt text](/P/SJSU/git/Github/Coral_Dev_Board_Google_Edge_TPU/devboard-pinout.png "Dev Board GPIO pinout")
+![alt text](http://linuxgizmos.com/files/google_coral_devboard_pinout.jpg "Dev Board GPIO pinout")
 
